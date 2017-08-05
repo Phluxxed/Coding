@@ -1,0 +1,68 @@
+body {
+  font-family: 'Roboto Slab', serif;
+}
+.banner {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+  border-color: black;
+  border-width: 5px;
+  border-style: solid;
+}
+.titletext {
+  font-family: 'Roboto Slab', serif;
+  font-weight: bold;
+  font-size: 60px;
+  color: gold;
+}
+h2 {
+  font-weight: bold;
+  font-size: 40px;
+  color: gold;
+}
+h3 {
+  font-weight: bold;
+  font-size: 25px;
+  color: gold;
+  text-align: center;
+}
+ul li {
+}
+.container-fluid {
+  padding: 2%;
+  display: inline-block;
+  margin: auto;
+} 
+.esoweblink {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 2%;
+}
+.btn {
+  width: 300px;
+  margin: 1%;
+}
+ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+li {
+  text-align: left;
+  list-style-position: inside;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  padding-left: 1.5em;
+  text-indent: -1em;
+}
+li:before {
+  content: "\f22d";
+  font-family: FontAwesome;
+  color: gold;
+  font-size: 15px;
+  display: inline-block;
+  padding-right: 5px;
+}
