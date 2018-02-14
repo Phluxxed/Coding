@@ -1,0 +1,15 @@
+body {
+    background-color: orange;
+}
+
+li {
+    border: 2px solid red;
+}
+
+#test3 {
+    background-color: pink;
+}
+
+.test {
+    text-decoration: line-through;
+}

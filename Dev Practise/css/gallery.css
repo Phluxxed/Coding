@@ -1,0 +1,31 @@
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.glyphicon-camera {
+    margin: auto;
+}
+
+body {
+    padding-top: 70px;
+}
+
+.jumbotron {
+    color: #00e5ff;
+    background: #5e5e5e;
+}
+
+.navbar-inverse {
+    background: #5e5e5e;
+    border-color: #5e5e5e;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #00e5ff;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #00e5ff;
+}
+
